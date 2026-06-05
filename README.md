@@ -1,6 +1,6 @@
 # Eugene
 
-Software engineer. I like building things from scratch — editors, frameworks, languages, auth systems.
+Software engineer. I like building things from scratch: identity providers, text editors, UI frameworks, chess engines, and programming languages.
 
 Outside of code, I enjoy [photography](https://eugenioenko.github.io/photography/), plants, and oil painting.
 
