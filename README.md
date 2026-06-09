@@ -1,4 +1,4 @@
-Software engineer. I build systems that handle the hard parts: authentication, real-time collaboration, language runtimes, and developer tools.
+Software engineer. I enjoy building systems that handle the hard parts: authentication, real-time collaboration, language runtimes, and developer tools.
 
 Outside of code, I enjoy [photography](https://eugenioenko.github.io/photography/), plants, and oil painting.
 
