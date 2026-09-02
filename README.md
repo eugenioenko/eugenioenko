@@ -2,7 +2,7 @@ Software engineer. I enjoy building systems that handle the hard parts: authenti
 
 **Currently building**
 
-- **[Autentico](https://github.com/eugenioenko/autentico)** · Self-hosted OpenID Connect Identity Provider. Operational simplicity.
+- **[Autentico](https://github.com/eugenioenko/autentico)** · Self-hosted OIDC Identity Provider built for operational simplicity.
 - **[ttt](https://github.com/eugenioenko/ttt)** · A terminal text editor. A real alternative to VS Code, Zed, and Sublime that runs in your terminal.
 
 **Open source** · Contributor to [OpenTDF](https://opentdf.io).
