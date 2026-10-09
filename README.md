@@ -4,8 +4,8 @@ Software engineer. I enjoy building systems that handle the hard parts: authenti
 
 - **[Autentico](https://github.com/eugenioenko/autentico)** · Self-hosted OIDC Identity Provider built for operational simplicity.
 - **[ttt](https://github.com/eugenioenko/ttt)** · A terminal text editor. A real alternative to VS Code, Zed, and Sublime that runs in your terminal.
-- **[textmate-go](https://github.com/eugenioenko/textmate-go)** · A pure Go port of vscode-textmate for stateful TextMate grammar tokenization.
-
-**Open source** · Contributor to [OpenTDF](https://opentdf.io).
+- **[Goalchemy](https://github.com/eugenioenko/goalchemy)** · A transpiler for a restricted, Go-compatible language. You write it once, you get Go, TypeScript, Python, Java, C#, Rust, C, and Swift
+  
+**Open source** · Contributor to [OpenTDF](https://github.com/opentdf/platform) Open-source data-centric security for developers. 
 
 Go · TypeScript · JavaScript
